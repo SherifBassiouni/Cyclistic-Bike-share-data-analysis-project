@@ -1,5 +1,5 @@
 # Cyclistic Bike-share-data-analysis project 
-Project dashboard: [Tableau dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysis_16442378020670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Project dashboard: [Tableau dashboard](https://public.tableau.com/views/GoogleDataAnalyticsCertificateCapstoneProject/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ## Scenario
