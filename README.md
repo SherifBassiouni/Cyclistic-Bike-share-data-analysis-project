@@ -1,5 +1,5 @@
 # Cyclistic Bike-share-data-analysis project 
-Project article: [Project article](https://medium.com/@sherifbassiouni/how-does-a-bike-share-navigate-speedy-success-42cf684f7d0e)
+Project article: [article](https://medium.com/@sherifbassiouni/how-does-a-bike-share-navigate-speedy-success-42cf684f7d0e)
 Project dashboard: [Tableau dashboard](https://public.tableau.com/views/GoogleDataAnalyticsCertificateCapstoneProject/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
